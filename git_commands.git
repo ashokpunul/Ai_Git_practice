@@ -1,20 +1,7 @@
-# 1. Go to your project folder
-cd path/to/your/project
-
-# 2. Initialize Git
-git init
-
-# 3. Add all files
-git add .
-
-# 4. Commit your code
-git commit -m "Initial commit"
-
-# 5. Rename branch to main
-git branch -M main
-
-# 6. Connect to your GitHub repository
-git remote add origin https://github.com/USERNAME/REPOSITORY.git
-
-# 7. Push code to GitHub
-git push -u origin main
+#echo "# Ai_Git_practice" >> README.md
+#git init
+#git add README.md
+#git commit -m "first commit"
+#git branch -M main
+#git remote add origin https://github.com/ashokpunul/Ai_Git_practice.git
+#git push -u origin main
